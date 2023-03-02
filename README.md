@@ -8,8 +8,8 @@
 * [x] 0x00. Pagination
 
 # Software engineer
-## :enter_belu: 
-* **John Damilare** - [malu17](https://github.com/damilare123)
+
+* **John Damilare** -(https://github.com/damilare123)
 
 ## :mega: Acknowledgments
 
